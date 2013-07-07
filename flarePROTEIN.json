@@ -1,0 +1,38 @@
+[
+  {
+    "name":"proteins",
+	"children": [
+	  {
+		"name":"2-Sep",
+		"children": [
+			{"STX1A"}
+		]
+	  },
+	  {
+		"name":"5-Sep",
+		"children": [
+			{"STX1A"},
+			{"STX4"}
+		]
+	  },
+	  {
+		"name":"AANAT",
+		"children": [
+			{"F2"}
+		]
+	  },
+	  {
+		"name":"ABCB7",
+		"children": [
+			{"FECH"}
+		]
+	  },
+	  {
+		"name":"ABCC2",
+		"children": [
+			{"RDX"}
+		]    
+	  }
+	  ]
+	  }	  
+]

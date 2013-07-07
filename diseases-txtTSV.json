@@ -1,0 +1,9090 @@
+{
+"name":"Genes",
+"children": [
+	{
+		"name":"MYC",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RALB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SELP",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PRKCSH",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LDLR",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SETDB1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"C1orf127",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PAK1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"WTAP",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TNFAIP8",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DAP",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"H1FX",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TSSC4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ITGB5",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"APOH",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"BEND3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"APOE",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CTGF",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"APOB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ZNF263",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SAP18",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HK3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RBPJ",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"source",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ACTN1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"VAV1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PRMT1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NDUFV1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"EYA2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FREM2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RAB11FIP3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DRC1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"JAK3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"JAK2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"JAK1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LRRK2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RHOB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CLCN5",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TTC14",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HSPA1A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"UBC",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"WDR70",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CHEK1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"AR",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "46,XY disorders of sex development (Disorders in androgen synthesis or action), including: Congenital adrenal hyperplasias; Leydig cell hypoplasia; Androgen insensitivity syndrome (AIS),46,XY disorders of sex development (Other), including: Persistent Mullerian duct syndrome; Hypospadias; Cryptorchidism,Prostate cancer,Spinal and bulbar muscular atrophy (SBMA); Kennedy's disease"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "46,XY disorders of sex development (Disorders in androgen synthesis or action), including: Congenital adrenal hyperplasias; Leydig cell hypoplasia; Androgen insensitivity syndrome (AIS),46,XY disorders of sex development (Other), including: Persistent Mullerian duct syndrome; Hypospadias; Cryptorchidism,Prostate cancer,Spinal and bulbar muscular atrophy (SBMA); Kennedy's disease"}
+			]
+		}
+		]
+	},
+	{
+		"name":"STK36",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ACAN",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GLI3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SNX17",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"EVI5L",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CISD1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RPS6KA6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PPP2CB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ELF4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TRAF1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ANXA2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TRAF2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LAPTM4B",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TRAF6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PSME4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"METTL21B",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MARK2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DBN1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CRK",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ZNF606",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MKS1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ELN",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DNAH5",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PTPRC",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CLU",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DYX1C1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RFXAP",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FOXJ1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PTK2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ABL1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"POLR3D",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SDC4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RANGRF",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"IFT140",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HSF4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MYH9",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ELANE",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CDK8",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"H2AFX",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TYR",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ACAT1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CDK3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GADD45A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"INTS8",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PDCD6IP",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LGALS3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"STAT5B",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DLG1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DLG2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DLG3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DLG4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"IL32",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SLC4A1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CENPO",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PFDN1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PLEKHB2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PFDN6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PHB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"IP6K2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NPPB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ETS2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"VIP",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HMGXB4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HOXA1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"KHNYN",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FBN2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"VIM",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"BMPR1A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"BMPR1B",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PLXNA2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SMAD7",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SMAD6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SMAD1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CD19",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PPP2R1A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"COMMD10",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PRKAR1A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NEK2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"C4BPA",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HNRNPR",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CTNNA1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PHC2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TOM1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"BRCA1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"QPRT",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CD82",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PAFAH1B1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"KIF15",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ACTL6A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ALB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CTSG",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NEDD9",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GLI2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GLI1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ACVR1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SUFU",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PTPN2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ITSN2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"EPRS",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PTPN6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CREB1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MKI67",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PPP1R7",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"EVL",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CKB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RAB10",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CCNE1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"IGSF1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HOXC8",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"VLDLR",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RPL10",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "3' -UTR-mediated translational regulation,Disease,Gene Expression,Metabolism of RNA,Metabolism of proteins"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PLAGL1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PTPN11",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CFC1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RB1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"COL1A1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CDC40",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SKIL",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ARRB2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FKBP1A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PDE4A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NR4A2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GATA1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CASP6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"APBA2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NTHL1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"UBE2L3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LRP1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LTBP1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DNAAF3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PAXIP1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FBN1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ZNF561",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ZIC3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"KRT8",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ZBTB14",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PIK3R3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SPTAN1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GCOM1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HIST1H1A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ZNF219",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"IL6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PLXND1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PDPK1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"BRIX1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DYNC2LI1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"AHR",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GC",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"C2orf44",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RAB1A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CAV1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RAP1A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TMEM67",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HMGCL",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "3-Hydroxy-3-methylglutaryl-CoA lyase deficiency"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "3-Hydroxy-3-methylglutaryl-CoA lyase deficiency"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PBX3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CAD",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ITGA6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"JUP",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ROBO1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ZFP36L2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CCDC151",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"COX11",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HLA-C",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RANBP2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"C2orf16",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CIITA",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PKD1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"COL2A1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RNF19A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NR2C2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CACNA1A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LRP8",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"AKR1C1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GSK3B",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"OLFM2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LRP2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SERPINA3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SERPINA4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LRP5",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"P4HTM",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CD79B",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FOLR1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LIPC",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RBX1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SORBS1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SORBS2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"YWHAG",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"KRT18",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"YWHAE",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ADRBK2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DPT",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CHD3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CHD4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GAP43",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CDX2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MAPKAPK5",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MSN",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CDKN2A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MEGF8",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ATN1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"INS",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MAPK14",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RBL1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MAPK10",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RBL2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"C3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MYBL2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"A2M",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"IGFBP3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NR3C1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "46,XX disorders of sex development (Disorders related to androgen excess), including: Congenital adrenal hyperplasias; Glucocorticoid resistance; Aromatase deficiency"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "46,XX disorders of sex development (Disorders related to androgen excess), including: Congenital adrenal hyperplasias; Glucocorticoid resistance; Aromatase deficiency"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MAPK6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"OGT",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RSG1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GNAI1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MUC16",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ACTB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"STAT2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"STAT3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FANCA",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"COL3A1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PPP3CB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DNAI1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CD4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ELP6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CSRP2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TAB1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CARD18",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"OR1F1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"BTRC",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RAB4A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"F9",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"F8",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FADD",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"C5orf42",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HSF1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SIGLEC12",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RAC1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"BRSK1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"UNC119",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CTNND2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RPLP1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "3' -UTR-mediated translational regulation,Disease,Gene Expression,Metabolism of RNA,Metabolism of proteins"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PCSK5",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HIP1R",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SCFD1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"XIAP",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CCR5",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"H3F3A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"AMH",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "46,XY disorders of sex development (Other), including: Persistent Mullerian duct syndrome; Hypospadias; Cryptorchidism"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "46,XY disorders of sex development (Other), including: Persistent Mullerian duct syndrome; Hypospadias; Cryptorchidism"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HSPA8",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GLDC",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HMGA1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CDC6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MICAL1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ACPT",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CELSR3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HNRNPA1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TSN",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GRB2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HIST1H1B",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CXCR6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CXCR4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"EHD1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"STUB1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DES",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DPP4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GALNT3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TMCC1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LCN2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NTN3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"AP1B1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SRC",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SMURF2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NPR2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SMARCA4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PDE2A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LPA",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RUNX2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LPL",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"STAT1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ENG",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ITGB7",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HPR",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RAB28",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PIP4K2A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SEMA6A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SLC9A3R2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MAPK11",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CECR2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RAB25",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HIATL2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DYNC2H1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CANX",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DNAJA3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DNAH11",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ESR1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CFL1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"POGZ",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"COL4A1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LOX",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"APBB1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ARMC4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TRADD",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TGFBR1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PRR16",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RAD23A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MAP3K7",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MAP3K4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CC2D2A",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"ANKRD50",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CLIC1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PEX10",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"URB1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FDX1L",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CSN2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CDH1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"MMP21",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CDH6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"TRIP6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SMPD4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RPS28",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "3' -UTR-mediated translational regulation,Disease,Gene Expression,Metabolism of RNA,Metabolism of proteins"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CXCL12",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"APP",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"RELB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CXCL16",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FOXN2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NDUFS1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"KLK3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"KLK7",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"FN1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GSTM1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CYP4F3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"BICC1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CEBPB",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PIAS1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CEBPA",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CALR",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CCL25",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LAMTOR3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"GEMIN4",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"HACE1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PSKH1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"NCOA3",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"CTNNB1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SLC25A33",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DAB2",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"SUMO1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DOCK1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"DAB1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"LENG9",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PRICKLE1",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	},
+	{
+		"name":"PAX6",
+		"children": [
+		{
+			"name":"Diseases",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Pathways",
+			"children": [
+				{"name": "None"}
+			]
+		},
+		{
+			"name":"Drugs",
+			"children": [
+				{"name": "None"}
+			]
+		}
+		]
+	}
+]
+}
