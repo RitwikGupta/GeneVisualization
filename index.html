@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <script src="d3/d3.v3.js"></script>
+		<script src="jquery/jquery-1.10.1.js"></script>
+        <style>
+
+            path.link {
+              fill: none;
+              stroke: #009CC8;
+              stroke-width: 1.5px;
+            }
+
+            circle {
+              fill: yellow;
+              stroke: orange;
+              stroke-width: 1.5px;
+            }
+
+            text {
+              fill: red;
+              font: 10px sans-serif;
+              pointer-events: none;
+            }
+			
+			div.tooltip {
+				position: absolute;           
+				text-align: center;           
+				width: 60px;                  
+				height: 28px;                 
+				padding: 2px;             
+				font: 12px sans-serif;        
+				background: lightsteelblue;   
+				border: 0px;      
+				border-radius: 8px;           
+				pointer-events: none;       
+			}
+
+        </style>
+        <style type="text/css"></style>
+    </head>
+    <body bgcolor="lightgrey">
+		<script>
+		var myvar = "";
+		var myvarArr = [];
+		var myvarHash = {};
+		jQuery.get("cdhCSVTWO.csv", function(data) {
+			myvar = data;
+			myvarArr = myvar.split("\n");	
+		});
+
+        // get the data
+        d3.csv("forcePROTEIN.csv", function(error, links) {
+		
+			myvarArr.pop();
+			for(var i = 0; i < myvarArr.length; i++) {
+				var arr = [];
+				var key = myvarArr[i];
+				var comma = key.indexOf(",");
+				var commaTwo = key.indexOf(",", comma + 1);
+				var commaThr = key.indexOf(",", commaTwo + 1);
+				myvarHash[key.substring(0, comma)] = arr;
+				arr.push(key.substring(comma + 1, commaTwo));
+				arr.push(key.substring(commaTwo + 1, commaThr));
+				arr.push(key.substring(commaThr + 1, key.length));
+			}
+			console.log(myvarHash);
+
+            var nodes = {};
+			
+            // Compute the distinct nodes from the links.
+            links.forEach(function(link) {
+                link.source = nodes[link.source] || 
+                    (nodes[link.source] = {name: link.source});
+					        link.target = nodes[link.target] || 
+                    (nodes[link.target] = {name: link.target});
+                //link.value = +link.value;
+			});
+			
+			var width = 960,
+				height = 500;
+
+			var force = d3.layout.force()
+				.nodes(d3.values(nodes))
+				.links(links)
+				.size([width, height])
+				.linkDistance(60)
+				.charge(-300)
+				.on("tick", tick)
+				.start();
+
+			var svg = d3.select("body").append("svg")
+				.attr({"width": "100%", "height": "99%"})
+				.attr("viewBox", "0 0 " + width + " " + height)
+				.attr("preserveAspectRatio", "xMidYMid meet")
+				.attr("pointer-events", "all")
+				.call(d3.behavior.zoom().on("zoom", redraw));
+
+			var vis = svg.append("svg:g");
+
+			function redraw() {
+				vis.attr("transform", "translate(" + d3.event.translate + ")" + " scale(" + d3.event.scale + ")");
+			}
+
+			//  add the links and the arrows
+			var path = svg.append("svg:g").selectAll("path")
+				.data(force.links())
+				.enter().append("svg:path")
+			//	.attr("class", function(d) { return "link " + d.type; })
+				.attr("class", "link");
+
+			// define the nodes
+			var node = svg.selectAll(".node")
+				.data(force.nodes())
+				.enter().append("g")
+				.attr("class", "node")
+				.on("mouseover", mouseover)
+				.on("mouseout", mouseout)
+				.on("click", function(node) {
+					if(node.name in myvarHash){
+						alert(node.name + "\nINTERACTS: " + myvarHash[node.name][0] + "\nPATHWAYS: " + myvarHash[node.name][1] + "\nDISEASES: " + myvarHash[node.name][2]);
+					} else {
+						alert("No information exists");
+					}
+					console.log(node.name);
+				})
+				.call(force.drag);
+				
+			// add the nodes
+			node.append("circle")
+				.attr("r", 5);
+				
+			node.append("title").text(function(d) { return (d.name); });
+				
+			// add the text 
+			node.append("text")
+				.attr("x", 12)
+				.attr("dy", ".35em")
+				.text(function(d) { return d.name; });
+
+			// add the curvy lines
+			function tick() {
+				path.attr("d", function(d) {
+					var dx = d.target.x - d.source.x,
+						dy = d.target.y - d.source.y,
+						dr = Math.sqrt(dx * dx + dy * dy);
+					return "M" + 
+						d.source.x + "," + 
+						d.source.y + "A" + 
+						dr + "," + dr + " 0 0,1 " + 
+						d.target.x + "," + 
+						d.target.y;
+				});
+
+				node.attr("transform", function(d) { 
+					return "translate(" + d.x + "," + d.y + ")"; });
+			}
+			
+			function mouseover() {
+				d3.select(this).select("text").transition()
+					.duration(750)
+					.attr("x", 22)
+					.style("fill", "red")
+					.style("stroke", "black")
+					.style("stroke-width", ".5px")
+					.style("font", "20px sans-serif");
+					var name = function(d) { d.name };
+				d3.select(this).select("circle").transition()
+					.duration(750)
+					.attr("r", 16)
+					.style("fill", "red")
+					.style("opacity", 0.7);
+			}
+			
+			function mouseout() {
+				d3.select(this).select("circle").transition()
+					.duration(750)
+					.attr("r", 5)
+					.style("fill", "yellow")
+					.style("stroke", "orange")
+					.style("opacity", 1);
+				d3.select(this).select("text").transition()
+					.duration(750)
+					.attr("x", 12)
+					.style("stroke", "none")
+					.style("fill", "red")
+					.style("stroke", "none")
+					.style("font", "10px sans-serif");
+			}
+			
+			function click() {
+				console.log(node.name);
+				parent.iframeTree.from2=node.name;
+				alert(node.name);
+				alert(myvarHash[node.name][0]);
+			}
+		
+        });
+		parent.iframeTree.from1=myvarHash
+        </script>
+    </body>
+</html>
